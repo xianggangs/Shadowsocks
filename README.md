@@ -24,6 +24,3 @@ btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生�
 
 安卓下载：  在此github库里的apk就是
 <br>
-iOS下载：  https://testflight.apple.com/join/oD2hW3B9
-<br>
-Telegram: https://t.me/MagicNucleusPro
