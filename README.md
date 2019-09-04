@@ -22,5 +22,10 @@ btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生�
 
 ## android和iOS客户端下载
 
-安卓下载：  在此github库里的apk就是
+安卓下载：  https://github.com/xianggangs/Shadowsocks/blob/master/mobile-arm64-v8a-release.apk
+
+google play: https://play.google.com/store/apps/details?id=cn.ssh.shadowingpo
+
+google play: https://play.google.com/store/apps/details?id=cn.ssh.shadowsockssh
+
 <br>
